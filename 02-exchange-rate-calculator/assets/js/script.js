@@ -19,8 +19,14 @@ function calculate() {
     });
 }
 
+function negativeInputValue() {
+    const element = document.getElementsByTagName('input')[0];
+    element.setAttribute('min', 0);
+}
+
 currencyOne.addEventListener('change', calculate);
 amountOne.addEventListener('input', calculate);
+amountOne.addEventListener('click', negativeInputValue);
 currencyTwo.addEventListener('change', calculate);
 currencyTwo.addEventListener('input', calculate);
 
@@ -30,6 +36,5 @@ swap.addEventListener('click', () => {
   currencyTwo.value = temp;
   calculate();
 });
-
 
 calculate();
