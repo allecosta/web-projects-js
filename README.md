@@ -4,7 +4,7 @@
 | :-: | :----------------------------: | :-----:|
 | 01  | Custom Vídeo Player            | OK |
 | 02  | Exchange Rate Calculator       | OK |
-| 03  | Expense Tracker                | OK |
+| 03  | Expense Tracker Bank           | OK |
 | 04  | Form Validator                 | OK |
 
 
