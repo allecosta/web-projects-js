@@ -1,6 +1,6 @@
 ## Infinite Scrolling & Filter - The Times News
 
-Exibe posts via API [jsonplaceholder](https://jsonplaceholder.typicode.com), com rolagem infinita, buscando posts e também caixa de filtro.
+Exibe posts via API [https://jsonplaceholder.typicode.com](https://jsonplaceholder.typicode.com) com rolagem infinita, buscas por posts via caixa de filtro.
 
 ## Projeto
 
