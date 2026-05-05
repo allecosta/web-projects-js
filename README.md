@@ -7,6 +7,7 @@
 | 03  | Expense Tracker Bank           | OK |
 | 04  | Form Validator                 | OK |
 | 05  | Infinite Scroll News           | OK |
+| 06  | Lyrics Web Music               | OK |
 
 
 
