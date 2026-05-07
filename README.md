@@ -8,6 +8,7 @@
 | 04  | Form Validator                 | OK |
 | 05  | Infinite Scroll News           | OK |
 | 06  | Lyrics Web Music               | OK |
+| 07  | Anki Web Cards                 | OK |
 
 
 
