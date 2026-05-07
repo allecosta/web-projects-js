@@ -22,9 +22,7 @@ function createCard(data, index) {
   const card = document.createElement('div');
   card.classList.add('card');
 
-  if (index === 0) {
-    card.classList.add('active');
-  }
+  if (index === 0) card.classList.add('active');
 
   card.innerHTML = `
     <div class="inner-card">
@@ -67,9 +65,7 @@ nextBtn.addEventListener('click', () => {
 
   currentActiveCard = currentActiveCard + 1;
 
-  if (currentActiveCard > cardsEl.length - 1) {
-    currentActiveCard = cardsEl.length - 1;
-  }
+  if (currentActiveCard > cardsEl.length - 1) currentActiveCard = cardsEl.length - 1;
 
   cardsEl[currentActiveCard].className = 'card active';
 
@@ -81,9 +77,7 @@ prevBtn.addEventListener('click', () => {
 
   currentActiveCard = currentActiveCard - 1;
 
-  if (currentActiveCard < 0) {
-    currentActiveCard = 0;
-  }
+  if (currentActiveCard < 0) currentActiveCard = 0;
 
   cardsEl[currentActiveCard].className = 'card active';
 
