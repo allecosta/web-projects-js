@@ -9,6 +9,7 @@
 | 05  | Infinite Scroll News           | OK |
 | 06  | Lyrics Web Music               | OK |
 | 07  | Anki Web Cards                 | OK |
+| 08  | My Hunting Page                | OK |
 
 
 
