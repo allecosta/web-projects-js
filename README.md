@@ -1,4 +1,4 @@
-## Web Projects With Vanilla JavaScript
+## Web Projects JS
 
 |  #  |            Projects             | Status |
 | :-: | :----------------------------: | :-----:|
@@ -10,6 +10,7 @@
 | 06  | Lyrics Web Music               | OK |
 | 07  | Anki Web Cards                 | OK |
 | 08  | My Hunting Page                | OK |
+| 09  | Cinemark                       | OK |
 
 
 
