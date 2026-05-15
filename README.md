@@ -11,6 +11,7 @@
 | 07  | Anki Web Cards                 | OK |
 | 08  | My Hunting Page                | OK |
 | 09  | Cinemark                       | OK |
+| 10  | Music Web Player               | OK |
 
 
 
